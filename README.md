@@ -3,12 +3,12 @@ My first repository
 
 # My favorite series
 
-![gsnk-image](https://cdn.myanimelist.net/images/anime/5/66083l.jpg)
-**Title:** Gekkan Shoujo Nozaki-kun / Monthly Girls' Nozaki-kun
-**Episodes:** 12 Episodes
-**Aired:** July 7, 2014 to September 22, 2014
-**Studio:** Doga Kobo
-**Adapted From:** Gekkan Shoujo Nozaki-kun 4-koma / 4-panel Manga
+![gsnk-image](https://cdn.myanimelist.net/images/anime/5/66083l.jpg) <br>
+**Title:** Gekkan Shoujo Nozaki-kun / Monthly Girls' Nozaki-kun <br>
+**Episodes:** 12 Episodes <br>
+**Aired:** July 7, 2014 to September 22, 2014 <br>
+**Studio:** Doga Kobo <br>
+**Adapted From:** Gekkan Shoujo Nozaki-kun 4-koma / 4-panel Manga <br><br>
 
 **Main Characters:**
 1. Sakura Chiyo
