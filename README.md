@@ -11,6 +11,7 @@ My first repository
 **Studio:** Doga Kobo <br>
 **Adapted From:** Gekkan Shoujo Nozaki-kun 4-koma / 4-panel Manga <br>
 **Status:** On-going <br>
+**Link to Fan Wiki:** [Gekkan Shoujo Nozaki-kun Fandom Wiki](https://gekkan-shoujo-nozakikun.fandom.com/wiki/Home_Page) <br>
 
 **Main Characters:**
 1. Sakura Chiyo
